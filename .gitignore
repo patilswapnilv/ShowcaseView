@@ -34,3 +34,7 @@ local.properties
 # Maven Files
 pom.xml.*
 settings.xml
+build/
+library/build/
+.gradle/
+library/.gradle
